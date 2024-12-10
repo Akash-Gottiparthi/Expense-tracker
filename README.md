@@ -1,3 +1,3 @@
 # Expense-tracker
 
-https://expensetracker6.netlify.app/
+https://creative-bonbon-cff2dc.netlify.app
